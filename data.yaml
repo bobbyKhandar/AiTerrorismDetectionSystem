@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 9
+names: ['Gunmen', 'Rifle', 'blunt object', 'knife', 'knife_attacker', 'person', 'pistol', 'shot-gun', 'submachine-gun']
+
+roboflow:
+  workspace: weapon-detect-qbsiw
+  project: yolo-weapon-detection
+  version: 9
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/weapon-detect-qbsiw/yolo-weapon-detection/dataset/9

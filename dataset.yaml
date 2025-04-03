@@ -1,0 +1,14 @@
+path: C:/Users/Exam/Desktop/bobby/dataset
+train: C:/Users/Exam/Desktop/bobby/dataset/train
+val: C:/Users/Exam/Desktop/bobby/dataset/val
+test: C:/Users/Exam/Desktop/bobby/dataset/test
+
+# class names
+names: 
+  0: Knife
+  1: Handgun
+  2: Short_rifle
+
+
+ 
+
